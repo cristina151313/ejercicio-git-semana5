@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio-testing-semana5",
+  "version": "1.0.0",
+  "description": "Ejercicio de ejemplo de testing con Jest - Semana 5, Fundamentos de Lenguajes Web (UNIR)",
+  "scripts": {
+    "test": "jest",
+    "cobertura": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
