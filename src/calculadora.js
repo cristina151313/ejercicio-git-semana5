@@ -17,6 +17,11 @@ function dividir(a, b) {
   return a / b;
 }
 
+// Resta dos números.
+function resta(a, b) {
+  return a - b;
+}
+
 // module.exports permite usar estas funciones desde otros archivos
 // (por ejemplo, desde los archivos de prueba con require).
 module.exports = { suma, dividir };
